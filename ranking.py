@@ -8,6 +8,41 @@ TOTAL_MATCHES = 0
 elo_buffer = .15
 provisionals = 10
 
+# Movie titles were splitting on commas, so I integrated this fix from stack overflow
+# Source - https://stackoverflow.com/a/71080500
+# Posted by trodevel
+# Retrieved 2026-08-05, License - CC BY-SA 4.0
+
+def tokenize( string, separator = ',', quote = '"' ):
+    """
+    Split a comma separated string into a List of strings.
+
+    Separator characters inside the quotes are ignored.
+
+    :param string: A string to be split into chunks
+    :param separator: A separator character
+    :param quote: A character to define beginning and end of the quoted string
+    :return: A list of strings, one element for every chunk
+    """
+    comma_separated_list = []
+
+    chunk = ''
+    in_quotes = False
+
+    for character in string:
+        if character == separator and not in_quotes:
+            comma_separated_list.append(chunk)
+            chunk = ''
+
+        else:
+            chunk += character
+            if character == quote:
+                in_quotes = False if in_quotes else True
+
+    comma_separated_list.append( chunk )
+
+    return comma_separated_list
+
 def Probability(rating1, rating2): 
     return 1.0 * 1.0 / (1 + 1.0 * math.pow(10, 1.0 * (rating1 - rating2) / 400)) 
 
@@ -41,8 +76,8 @@ def match(a, b):
     global TOTAL_MATCHES 
     TOTAL_MATCHES += 1
     print("\nWhich item do you prefer?")
-    print(a["title"], "(1)")
-    print(b["title"], "(2)")
+    print(a["title"], "--", a["year"], "(1)")
+    print(b["title"], "--", b["year"], "(2)")
     result = input("Enter (1) or (2): ")
     if result == "1":
         matches = getAdjustments(b["elo"], a["elo"])
@@ -145,7 +180,7 @@ with open(filename, "r") as file:
         raise Exception("'title' must be provided as a header")
     
     for line in file:
-        data = line.split(",")
+        data = tokenize(line)
         ranklist.append({headers[i]:data[i] for i in range(len(headers))})
         ranklist[~0]["elo"] = int(ranklist[~0]["elo"])
         ranklist[~0]["W"] = int(ranklist[~0]["W"])
