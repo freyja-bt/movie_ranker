@@ -169,7 +169,7 @@ def get_from_title(items, title):
 
 ranklist = []
 if len(sys.argv) < 2:
-    raise Exception("Filename of ranking file must be provided as command line argument")
+    raise Exception("Filename of ranking file must be provided as command line argument")  # noqa: TRY002
 
 filename = sys.argv[1]
 with open(filename, "r") as file:
@@ -195,6 +195,10 @@ while True:
         newItem(ranklist, headers)
     elif decision == "2": 
         n = input("How many random matches do you want to do: ")
+        try:
+            n = int(n)
+        except ValueError:
+            n = input("Enter a number this time: ") 
         for _ in range(int(n)):
             randomMatch(ranklist)
     elif decision == "3":
