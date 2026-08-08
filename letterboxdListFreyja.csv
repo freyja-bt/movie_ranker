@@ -1,202 +1,228 @@
 ,title,elo,genre,year,W,L
-317,Ghostbusters,200,Comedy/Fantasy,1984,2,0
-423,The Big Sick,200,Comedy/Romance/Drama,2017,2,0
+266,Captain America: The Winter Soldier,254,Adventure/Science Fiction/Action,2014,3,0
+317,Ghostbusters,230,Comedy/Fantasy,1984,3,0
+337,Monty Python and the Holy Grail,225,Fantasy/Comedy/Adventure,1975,3,0
+69,Baby Driver,225,Crime/Action,2017,3,0
+35,Calvary,225,Drama,2014,3,0
+231,Little Miss Sunshine,223,Drama/Comedy,2006,3,0
+401,Ella Enchanted,215,Comedy/Fantasy/Family,2004,2,0
+346,Kingsman: The Golden Circle,212,Crime/Action/Adventure/Comedy,2017,2,0
+226,The Perks of Being a Wallflower,205,Drama,2012,2,0
+198,But I'm a Cheerleader,202,Romance/Drama/Comedy,1999,3,0
+225,The Silence of the Lambs,200,Crime/Thriller/Horror/Drama,1991,2,0
+376,Chicken Run,200,Animation/Family/Comedy,2000,2,0
+305,Lilo & Stitch,200,Comedy/Animation/Family/Science Fiction,2002,2,0
+215,Gattaca,200,Drama/Science Fiction,1997,2,0
+56,Saving Face,200,Drama/Romance/Comedy,2004,2,0
+391,National Treasure,192,Mystery/Adventure/Action,2004,3,0
+157,The Princess Bride,192,Adventure/Fantasy/Family/Romance,1987,2,0
+421,The Road to El Dorado,191,Fantasy/Comedy/Family/Animation/Adventure,2000,2,0
 0,The Princess Diaries 2: Royal Engagement,171,Romance/Family/Drama/Comedy,2004,2,0
 82,21 Jump Street,171,Crime/Action/Comedy,2012,2,0
 125,Winter Light,171,Drama,1963,2,0
-419,The Santa Clause,171,Family/Comedy/Fantasy/Drama,1994,2,0
-149,Pee-wee's Big Adventure,171,Adventure/Family/Comedy,1985,2,0
 75,Superbad,171,Comedy,2007,2,0
 176,The Muppet Christmas Carol,171,Drama/Family/Comedy/Music/Fantasy,1992,2,0
 187,Dinner for Schmucks,171,Comedy,2010,2,0
-337,Monty Python and the Holy Grail,171,Fantasy/Comedy/Adventure,1975,2,0
 474,The Year Without a Santa Claus,171,Family/TV Movie/Fantasy/Animation,1974,2,0
+328,Indiana Jones and the Last Crusade,171,Adventure/Action,1989,2,0
+86,Bo Burnham: What.,171,Music/Comedy,2013,2,0
+250,The Breakfast Club,171,Drama/Comedy,1985,2,0
+256,Princess Mononoke,171,Fantasy/Adventure/Animation,1997,2,0
+509,The Sheep Detectives,171,Mystery/Family/Comedy,2026,2,0
+96,Mike Birbiglia: The New One,171,Comedy,2019,2,0
+311,Singin' in the Rain,171,Comedy/Romance,1952,2,0
+71,Mamma Mia!,171,Comedy/Romance,2008,2,0
+417,Stardust,171,Romance/Family/Adventure/Fantasy,2007,2,0
+329,The Sound of Music,171,Drama/Music/Romance/Family,1965,2,0
+8,The Truman Show,154,Comedy/Drama,1998,2,0
+159,Willy Wonka & the Chocolate Factory,150,Comedy/Family/Fantasy,1971,2,0
 67,Miss Congeniality,148,Crime/Comedy/Action,2000,2,0
 463,The Lord of the Rings: The War of the Rohirrim,148,Animation/Fantasy/Adventure/Action,2024,2,0
-231,Little Miss Sunshine,128,Drama/Comedy,2006,1,0
+350,Lawrence of Arabia,148,Adventure/War/History,1962,2,0
+57,The Mummy,148,Action/Adventure/Fantasy,1999,2,0
+402,The Aristocats,148,Comedy/Animation/Family/Adventure,1970,2,0
+385,Moonstruck,148,Romance/Comedy/Drama,1987,2,0
+252,The Incredibles,145,Animation/Family/Adventure/Action,2004,2,0
+466,Selma,145,History/Drama,2014,1,0
+448,The Muppet Movie,143,Comedy/Family/Adventure,1979,2,0
+104,Hannah Gadsby: Something Special,137,Comedy,2023,1,0
 507,The Incredible Mr. Limpet,128,Fantasy/Comedy/Family/War/Animation,1964,1,0
+2,"Planes, Trains and Automobiles",128,Comedy,1987,1,0
+39,The Room,128,Drama/Romance,2003,1,0
+513,The Christophers,128,Crime/Comedy,2025,1,0
 28,Hidden Figures,120,Drama/History,2016,1,0
-47,The Favourite,100,Drama/Comedy/History,2018,1,0
-69,Baby Driver,100,Crime/Action,2017,1,0
+189,Scott Pilgrim vs. the World,119,Romance/Action/Comedy,2010,2,1
 85,Bo Burnham: Make Happy,100,Comedy/Music,2016,1,0
-96,Mike Birbiglia: The New One,100,Comedy,2019,1,0
 109,Trevor Noah: Son of Patricia,100,Comedy/TV Movie,2018,1,0
 128,"I, Robot",100,Action/Science Fiction,2004,1,0
 163,Stargate,100,Action/Adventure/Science Fiction,1994,1,0
 179,KPop Demon Hunters,100,Fantasy/Comedy/Music/Animation,2025,1,0
 203,Rain Man,100,Drama,1988,1,0
 220,Bottoms,100,Comedy,2023,1,0
-226,The Perks of Being a Wallflower,100,Drama,2012,1,0
 229,The Matrix,100,Science Fiction/Action,1999,1,0
 245,The Lord of the Rings: The Return of the King,100,Action/Fantasy/Adventure,2003,1,0
-277,Ex Machina,100,Science Fiction/Drama,2015,1,0
-311,Singin' in the Rain,100,Comedy/Romance,1952,1,0
 319,She's the Man,100,Romance/Comedy,2006,1,0
-328,Indiana Jones and the Last Crusade,100,Adventure/Action,1989,1,0
 352,Chicago,100,Comedy/Crime/Drama,2002,2,1
 372,Yesterday,100,Comedy/Fantasy/Romance/Music,2019,1,0
-376,Chicken Run,100,Animation/Family/Comedy,2000,1,0
-402,The Aristocats,100,Comedy/Animation/Family/Adventure,1970,1,0
-417,Stardust,100,Romance/Family/Adventure/Fantasy,2007,1,0
 431,Zathura: A Space Adventure,100,Adventure/Family/Science Fiction,2005,1,0
 436,The Last Temptation of Christ,100,Drama,1988,1,0
 12,The Departed,100,Thriller/Crime/Drama,2006,1,0
 16,DodgeBall: A True Underdog Story,100,Comedy,2004,1,0
 26,The Seagull,100,Comedy/Drama/Romance,2018,1,0
-30,Star Wars: The Force Awakens,100,Action/Adventure/Science Fiction,2015,1,0
-35,Calvary,100,Drama,2014,1,0
 38,Whisper of the Heart,100,Drama/Animation/Family,1995,1,0
 48,Ant-Man,100,Adventure/Science Fiction/Action,2015,1,0
 62,The Other Guys,100,Comedy/Action,2010,1,0
 68,Rush Hour,100,Crime/Action/Comedy,1998,1,0
-86,Bo Burnham: What.,100,Music/Comedy,2013,1,0
 106,John Mulaney: Kid Gorgeous at Radio City,100,Comedy/TV Movie,2018,1,0
 118,Steve Martin and Martin Short: An Evening You Will Forget for the Rest of Your Life,100,TV Movie/Comedy/Music,2018,1,0
-119,Rent,100,Drama/Romance,2005,1,0
 134,We're the Millers,100,Comedy/Crime,2013,1,0
 144,Hotel Chevalier,100,Drama/Romance,2007,1,0
 161,The Day the Earth Stood Still,100,Drama/Thriller/Science Fiction,2008,1,0
 175,The Holdovers,100,Drama/Comedy,2023,1,0
-195,Vanilla Sky,100,Romance/Science Fiction/Mystery,2001,1,0
-225,The Silence of the Lambs,100,Crime/Thriller/Horror/Drama,1991,1,0
 241,Soul,100,Music/Drama/Family/Animation/Fantasy,2020,1,0
-250,The Breakfast Club,100,Drama/Comedy,1985,1,0
-266,Captain America: The Winter Soldier,100,Adventure/Science Fiction/Action,2014,1,0
 283,Star Wars: The Last Jedi,100,Adventure/Action/Science Fiction,2017,1,0
 286,Raiders of the Lost Ark,100,Adventure/Action,1981,1,0
 298,The Rocky Horror Picture Show,100,Horror/Comedy/Science Fiction,1975,1,0
 303,The Wizard of Oz,100,Adventure/Fantasy/Family,1939,1,0
-305,Lilo & Stitch,100,Comedy/Animation/Family/Science Fiction,2002,1,0
 307,Hot Fuzz,100,Action/Crime/Comedy,2007,1,0
-329,The Sound of Music,100,Drama/Music/Romance/Family,1965,1,0
 332,Into the Wild,100,Drama/Adventure,2007,1,0
 348,Hocus Pocus,100,Comedy/Family/Fantasy,1993,1,0
-350,Lawrence of Arabia,100,Adventure/War/History,1962,1,0
 373,Brother Bear,100,Animation/Family/Adventure,2003,1,0
-385,Moonstruck,100,Romance/Comedy/Drama,1987,1,0
 387,Army of Darkness,100,Comedy/Fantasy/Horror,1992,1,0
-391,National Treasure,100,Mystery/Adventure/Action,2004,1,0
-421,The Road to El Dorado,100,Fantasy/Comedy/Family/Animation/Adventure,2000,1,0
-434,A Charlie Brown Christmas,100,Family/Comedy/TV Movie/Animation,1965,1,0
 471,Rudolph the Red-Nosed Reindeer,100,Family/Adventure/Animation/Fantasy,1964,1,0
-484,Doctor Zhivago,100,War/Drama/Romance,1965,1,0
 486,Nick and Norah's Infinite Playlist,100,Romance/Music/Comedy,2008,1,0
 493,Charlotte's Web,100,Fantasy/Comedy/Family,2006,1,0
-510,The Devil Wears Prada 2,100,Comedy/Drama,2026,1,0
 514,Mary Oliver: Saved by the Beauty of the World,100,Documentary,2026,1,0
-168,The Empire Strikes Back,79,Science Fiction/Adventure/Action,1980,1,0
+65,13 Going on 30,100,Comedy/Romance/Fantasy,2004,1,0
+137,The Grand Budapest Hotel,100,Comedy/Drama,2014,1,0
+240,Black Panther,100,Adventure/Science Fiction/Action,2018,1,0
+282,Iron Man 2,100,Adventure/Science Fiction/Action,2010,1,0
+347,Castle in the Sky,100,Fantasy/Adventure/Family/Action/Animation/Science Fiction,1986,1,0
+447,Galaxy Quest,100,Comedy/Science Fiction/Adventure,1999,1,0
+456,The Mummy,100,Action/Horror/Fantasy/Adventure/Thriller,2017,1,0
+461,A Close Shave,100,Animation/Family/Comedy,1995,1,0
+470,The Pink Panther,100,Crime/Adventure/Comedy/Mystery/Family,2006,1,0
+138,Fantastic Mr. Fox,100,Comedy/Animation/Family/Adventure,2009,1,0
+174,It's a Wonderful Life,100,Family/Fantasy/Drama,1946,1,0
+205,The Goonies,100,Adventure/Family/Comedy,1985,1,0
+236,Howl's Moving Castle,100,Animation/Fantasy/Adventure,2004,1,0
+267,The Hangover,100,Comedy,2009,1,0
+295,The Lego Movie,100,Family/Fantasy/Comedy/Animation/Adventure,2014,1,0
+365,Swiss Army Man,100,Drama/Fantasy/Comedy/Adventure/Romance,2016,1,0
+389,Atlantis: The Lost Empire,100,Family/Science Fiction/Animation/Adventure,2001,1,0
+404,Scooby-Doo 2: Monsters Unleashed,100,Mystery/Comedy/Adventure,2004,1,0
+411,Star Trek,100,Action/Science Fiction/Adventure,2009,1,0
+413,Remember the Titans,100,Drama,2000,1,0
+446,Babe,100,Drama/Family/Fantasy/Comedy,1995,1,0
+49,Hearts Beat Loud,100,Drama/Family/Comedy/Music,2018,1,0
+121,Big Fish,100,Drama/Fantasy/Adventure,2003,1,0
+150,Pirates of the Caribbean: The Curse of the Black Pearl,100,Fantasy/Adventure/Action,2003,1,0
+180,The Wild Robot,100,Adventure/Animation/Family/Science Fiction,2024,1,0
+188,Easy A,100,Comedy,2010,1,0
+194,X2,100,Science Fiction/Action/Adventure,2003,1,0
+232,Harry Potter and the Prisoner of Azkaban,100,Adventure/Fantasy,2004,1,0
+292,Halloween,100,Thriller/Horror,1978,1,0
+356,The Prince of Egypt,100,Adventure/Family/Animation/Drama,1998,1,0
+426,Ghostbusters,100,Fantasy/Action/Comedy,2016,1,0
+438,No Strings Attached,100,Romance/Comedy,2011,1,0
+36,Tangled,91,Family/Adventure/Animation,2010,1,0
+53,Ant-Man and the Wasp,85,Adventure/Action/Science Fiction,2018,2,1
+419,The Santa Clause,83,Family/Comedy/Fantasy/Drama,1994,3,1
+181,Thelma,80,Adventure/Comedy/Action,2024,2,1
+296,The Princess Diaries,79,Comedy/Romance/Family,2001,1,0
 5,The Dark Knight,71,Thriller/Action/Crime,2008,1,0
-159,Willy Wonka & the Chocolate Factory,71,Comedy/Family/Fantasy,1971,1,0
 160,22 Jump Street,71,Action/Crime/Comedy,2014,1,0
 263,Juno,71,Comedy/Romance/Drama,2007,1,0
-346,Kingsman: The Golden Circle,71,Crime/Action/Adventure/Comedy,2017,1,0
 349,The Theory of Everything,71,Romance/Drama,2014,1,0
 380,Treasure Planet,71,Fantasy/Adventure/Science Fiction/Animation/Family,2002,1,0
 395,The Birdcage,71,Comedy/Romance,1996,1,0
 410,Popstar: Never Stop Never Stopping,71,Comedy/Music,2016,1,0
+79,Taylor Tomlinson: Quarter-Life Crisis,71,Comedy,2020,1,0
+100,Springsteen on Broadway,71,Music/Documentary,2018,1,0
+218,Mean Girls,71,Comedy/Drama,2004,1,0
+355,Enchanted,71,Family/Fantasy/Comedy/Romance,2007,1,0
+124,Wild Strawberries,71,Drama,1957,1,0
+202,Braveheart,71,Action/History/Drama/War,1995,1,0
+415,Bend It Like Beckham,71,Romance/Comedy/Drama,2002,1,0
+441,Tron,71,Adventure/Action/Science Fiction,1982,1,0
+457,The Lizzie McGuire Movie,71,Family/Comedy,2003,2,1
+24,Wake Up Dead Man,71,Comedy/Thriller/Mystery,2025,1,0
+122,Jurassic Park,71,Science Fiction/Adventure,1993,1,0
 217,Mulholland Drive,64,Drama/Mystery/Thriller,2001,1,0
+361,Over the Garden Wall,59,Animation/Mystery/Family/Comedy,2014,1,0
+326,Hercules,54,Animation/Adventure/Romance/Comedy/Fantasy/Family,1997,1,0
+273,Ferris Bueller's Day Off,54,Comedy,1986,1,0
+29,The Girl with the Dragon Tattoo,49,Thriller/Drama/Mystery/Crime,2009,1,0
+381,Chicken Little,48,Animation/Comedy/Family,2005,1,0
+297,The Parent Trap,37,Family/Romance/Comedy,1998,1,2
+120,Bridesmaids,31,Comedy/Romance,2011,1,1
+324,Finding Dory,31,Adventure/Animation/Family,2016,1,2
 113,Hannah Gadsby: Nanette,28,Comedy,2018,1,1
 276,Encanto,28,Comedy/Family/Fantasy/Animation,2021,1,1
 414,Tusk,28,Horror/Comedy,2014,1,1
-457,The Lizzie McGuire Movie,0,Family/Comedy,2003,1,1
-1,Wicked,0,Romance/Drama/Fantasy,2024,0,0
-2,"Planes, Trains and Automobiles",0,Comedy,1987,0,0
+110,Jen Kirkman: Just Keep Livin'?,28,Comedy,2017,1,1
+9,Pulp Fiction,28,Comedy/Thriller/Crime,1994,1,1
+94,The Lonely Island Presents: The Unauthorized Bash Brothers Experience,28,Comedy/Music,2019,1,1
+149,Pee-wee's Big Adventure,25,Adventure/Family/Comedy,1985,2,1
+472,The Santa Clause 2,22,Fantasy/Comedy/Family,2002,2,2
+375,Bruce Almighty,20,Comedy/Fantasy,2003,1,1
+208,The Terminator,20,Action/Thriller/Science Fiction,1984,1,1
+103,John Mulaney: The Comeback Kid,16,Documentary/TV Movie/Comedy,2015,1,1
+168,The Empire Strikes Back,14,Science Fiction/Adventure/Action,1980,3,2
+155,The Imaginarium of Doctor Parnassus,10,Fantasy/Adventure/Mystery,2009,1,1
+47,The Favourite,0,Drama/Comedy/History,2018,1,1
+30,Star Wars: The Force Awakens,0,Action/Adventure/Science Fiction,2015,1,1
+484,Doctor Zhivago,0,War/Drama/Romance,1965,1,1
+151,Pirates of the Caribbean: Dead Man's Chest,0,Action/Adventure/Fantasy,2006,1,1
 3,Home Alone,0,Family/Comedy,1990,0,0
-4,Inception,0,Action/Adventure/Science Fiction,2010,0,0
 6,Spider-Man: Into the Spider-Verse,0,Adventure/Animation/Action/Science Fiction,2018,0,0
 7,Get Out,0,Horror/Mystery/Thriller,2017,0,0
-8,The Truman Show,0,Comedy/Drama,1998,0,0
-10,Barbie,0,Comedy/Fantasy/Adventure,2023,0,0
 11,The Blues Brothers,0,Music/Comedy/Crime,1980,0,0
 14,Rogue One: A Star Wars Story,0,Adventure/Action/Science Fiction,2016,0,0
 17,The Lost World: Jurassic Park,0,Science Fiction/Action/Adventure,1997,0,0
-18,Jurassic Park III,0,Science Fiction/Thriller/Adventure,2001,0,0
 19,Knives Out,0,Mystery/Comedy/Crime,2019,0,0
 20,Glass Onion,0,Crime/Mystery/Comedy,2022,0,0
 21,Inglourious Basterds,0,War/Drama/Thriller,2009,0,0
 22,Megamind,0,Comedy/Science Fiction/Action/Family/Animation,2010,0,0
-24,Wake Up Dead Man,0,Comedy/Thriller/Mystery,2025,0,0
-27,The Shape of Water,0,Fantasy/Drama/Romance,2017,0,0
-29,The Girl with the Dragon Tattoo,0,Thriller/Drama/Mystery/Crime,2009,0,0
-32,Wonder Woman,0,Action/Fantasy/Adventure,2017,0,0
 33,2001: A Space Odyssey,0,Science Fiction/Adventure/Mystery,1968,0,0
-36,Tangled,0,Family/Adventure/Animation,2010,0,0
-39,The Room,0,Drama/Romance,2003,0,0
 40,Olaf's Frozen Adventure,0,Animation/Adventure/Fantasy/Family/Comedy,2017,0,0
-41,Arthur Christmas,0,Animation/Drama/Family/Comedy,2011,0,0
-43,Coco,0,Adventure/Animation/Music/Family,2017,0,0
 44,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,0,Comedy/War,1964,0,0
 45,Kung Fury,0,Comedy/Science Fiction/Fantasy/Action,2015,0,0
-49,Hearts Beat Loud,0,Drama/Family/Comedy/Music,2018,0,0
-50,Incredibles 2,0,Family/Action/Animation/Adventure,2018,0,0
-52,Mary Queen of Scots,0,Drama/History,2018,0,0
-53,Ant-Man and the Wasp,0,Adventure/Action/Science Fiction,2018,0,0
 54,Captain Marvel,0,Science Fiction/Action/Adventure,2019,0,0
-55,Frozen II,0,Comedy/Animation/Adventure/Fantasy/Family,2019,0,0
-56,Saving Face,0,Drama/Romance/Comedy,2004,0,0
-57,The Mummy,0,Action/Adventure/Fantasy,1999,0,0
 58,Barbie as The Princess & the Pauper,0,Comedy/Animation/Family,2004,0,0
 60,"I Love You, Man",0,Comedy/Romance,2009,0,0
-61,The Mask,0,Fantasy/Romance/Crime/Comedy,1994,0,0
 63,Burn After Reading,0,Comedy/Drama,2008,0,0
 64,Wallace & Gromit: Vengeance Most Fowl,0,Adventure/Comedy/Animation/Science Fiction/Family,2024,0,0
-65,13 Going on 30,0,Comedy/Romance/Fantasy,2004,0,0
 66,Wallace & Gromit: The Curse of the Were-Rabbit,0,Adventure/Comedy/Animation/Family,2005,0,0
-71,Mamma Mia!,0,Comedy/Romance,2008,0,0
 72,Taylor Tomlinson: Have It All,0,Comedy,2024,0,0
 73,El Camino: A Breaking Bad Movie,0,Crime/Drama/Thriller,2019,0,0
 76,Nimona,0,Science Fiction/Adventure/Fantasy/Animation/Family/Action,2023,0,0
 78,Lady Bird,0,Comedy/Drama,2017,0,0
-79,Taylor Tomlinson: Quarter-Life Crisis,0,Comedy,2020,0,0
 81,Tommy Boy,0,Comedy,1995,0,0
 83,School of Rock,0,Music/Family/Comedy,2003,0,0
 84,Legally Blonde,0,Comedy,2001,0,0
 87,Batman Begins,0,Crime/Action/Drama,2005,0,0
 89,Django Unchained,0,Drama/Western,2012,0,0
-90,Sam Jay: 3 in the Morning,0,Comedy,2020,0,0
 91,Hannah Gadsby: Douglas,0,Comedy,2020,0,0
-95,The Road to El Camino: Behind the Scenes of El Camino: A Breaking Bad Movie,0,Documentary,2019,0,0
 98,Nikki Glaser: Bangin',0,Comedy,2019,0,0
-99,Seth Meyers: Lobby Baby,0,Comedy,2019,0,0
-100,Springsteen on Broadway,0,Music/Documentary,2018,0,0
-101,Aziz Ansari: Right Now,0,Comedy/TV Movie/Documentary,2019,0,0
-103,John Mulaney: The Comeback Kid,0,Documentary/TV Movie/Comedy,2015,0,0
-104,Hannah Gadsby: Something Special,0,Comedy,2023,0,0
 105,John Mulaney: Baby J,0,Comedy,2023,0,0
 107,"Ken Jeong: You Complete Me, Ho",0,Comedy/Documentary,2019,0,0
-110,Jen Kirkman: Just Keep Livin'?,0,Comedy,2017,0,0
-111,Mulan,0,Family/Animation/Adventure,1998,0,0
 112,Tig,0,Documentary,2015,0,0
 114,Tig Notaro: Happy to Be Here,0,Comedy,2018,0,0
 115,Set It Up,0,Comedy/Romance,2018,0,0
 116,Ali Wong: Hard Knock Wife,0,Comedy,2018,0,0
 117,James Acaster: Repertoire,0,Comedy,2018,0,0
-121,Big Fish,0,Drama/Fantasy/Adventure,2003,0,0
-122,Jurassic Park,0,Science Fiction/Adventure,1993,0,0
 123,Labyrinth,0,Adventure/Family/Fantasy,1986,0,0
-124,Wild Strawberries,0,Drama,1957,0,0
-126,Through a Glass Darkly,0,Drama,1961,0,0
-129,Independence Day,0,Science Fiction/Adventure/Action,1996,0,0
 130,The Day After Tomorrow,0,Thriller/Science Fiction/Adventure,2004,0,0
 131,Dungeons & Dragons: Honor Among Thieves,0,Fantasy/Adventure/Comedy,2023,0,0
 132,Demi Adejuyigbe: Is Going to Do One (1) Backflip,0,Comedy,2025,0,0
 135,Die Hard,0,Thriller/Action,1988,0,0
-136,Fast Times at Ridgemont High,0,Drama/Romance/Comedy,1982,0,0
-137,The Grand Budapest Hotel,0,Comedy/Drama,2014,0,0
-138,Fantastic Mr. Fox,0,Comedy/Animation/Family/Adventure,2009,0,0
-141,The Darjeeling Limited,0,Comedy/Adventure/Drama,2007,0,0
 142,Rushmore,0,Comedy/Drama,1998,0,0
 146,Corpse Bride,0,Fantasy/Animation/Romance,2005,0,0
 147,Edward Scissorhands,0,Fantasy/Drama/Romance,1990,0,0
-150,Pirates of the Caribbean: The Curse of the Black Pearl,0,Fantasy/Adventure/Action,2003,0,0
-151,Pirates of the Caribbean: Dead Man's Chest,0,Action/Adventure/Fantasy,2006,0,0
 152,Pirates of the Caribbean: At World's End,0,Adventure/Action/Fantasy,2007,0,0
-154,Into the Woods,0,Comedy/Fantasy,2014,0,0
-155,The Imaginarium of Doctor Parnassus,0,Fantasy/Adventure/Mystery,2009,0,0
 156,Heathers,0,Comedy/Crime,1989,0,0
-157,The Princess Bride,0,Adventure/Fantasy/Family/Romance,1987,0,0
 158,Wonka,0,Fantasy/Family/Comedy,2023,0,0
-165,Stargate: Continuum,0,Science Fiction/Adventure/TV Movie/Action,2008,0,0
 166,Stargate SG-1: Children of the Gods,0,TV Movie/Action/Drama/Adventure/Science Fiction,2009,0,0
 167,Star Wars: Episode III – Revenge of the Sith,0,Science Fiction/Adventure/Action,2005,0,0
 169,Star Wars,0,Adventure/Science Fiction/Action,1977,0,0
@@ -204,95 +230,50 @@
 171,Return of the Jedi,0,Science Fiction/Adventure/Action,1983,0,0
 172,Star Wars: Episode II – Attack of the Clones,0,Science Fiction/Adventure/Action,2002,0,0
 173,Star Wars: The Rise of Skywalker,0,Adventure/Action/Science Fiction,2019,0,0
-174,It's a Wonderful Life,0,Family/Fantasy/Drama,1946,0,0
 178,Spirited Away,0,Family/Fantasy/Animation,2001,0,0
-180,The Wild Robot,0,Adventure/Animation/Family/Science Fiction,2024,0,0
-181,Thelma,0,Adventure/Comedy/Action,2024,0,0
 182,Crazy Rich Asians,0,Romance/Comedy,2018,0,0
-183,Moonlight,0,Drama,2016,0,0
 184,The Intern,0,Comedy,2015,0,0
-185,The Martian,0,Drama/Science Fiction/Adventure,2015,0,0
 186,The Wolf of Wall Street,0,Comedy/Drama/Crime,2013,0,0
-188,Easy A,0,Comedy,2010,0,0
-189,Scott Pilgrim vs. the World,0,Romance/Action/Comedy,2010,0,0
-190,The Social Network,0,Drama,2010,0,0
 191,300,0,Action/War/Adventure,2006,0,0
 192,Serenity,0,Science Fiction/Action/Adventure/Thriller,2005,0,0
 193,Shaun of the Dead,0,Horror/Comedy,2004,0,0
-194,X2,0,Science Fiction/Action/Adventure,2003,0,0
 196,Hannibal,0,Thriller/Drama/Horror/Crime,2001,0,0
-198,But I'm a Cheerleader,0,Romance/Drama/Comedy,1999,0,0
-199,Office Space,0,Comedy,1999,0,0
 200,Men in Black,0,Science Fiction/Comedy/Action/Adventure,1997,0,0
 201,Fargo,0,Crime/Comedy/Drama/Thriller,1996,0,0
-202,Braveheart,0,Action/History/Drama/War,1995,0,0
-205,The Goonies,0,Adventure/Family/Comedy,1985,0,0
-207,Amadeus,0,Drama/History/Music,1984,0,0
 209,The Karate Kid,0,Action/Drama/Family,1984,0,0
 211,Close Encounters of the Third Kind,0,Science Fiction/Drama,1977,0,0
 213,Heathers: The Musical,0,Music/Comedy/Thriller,2022,0,0
 214,Marty Supreme,0,Thriller/Drama,2025,0,0
-215,Gattaca,0,Drama/Science Fiction,1997,0,0
-218,Mean Girls,0,Comedy/Drama,2004,0,0
-219,Spider-Man: Homecoming,0,Action/Adventure/Science Fiction,2017,0,0
-221,Stand by Me,0,Adventure/Drama,1986,0,0
-222,"Good Luck, Have Fun, Don't Die",0,Action/Science Fiction/Comedy,2025,0,0
 223,10 Things I Hate About You,0,Comedy/Drama/Romance,1999,0,0
 224,Forrest Gump,0,Drama/Romance/Comedy,1994,0,0
 227,Ratatouille,0,Family/Fantasy/Animation/Comedy,2007,0,0
-232,Harry Potter and the Prisoner of Azkaban,0,Adventure/Fantasy,2004,0,0
 233,Inside Out,0,Animation/Adventure/Comedy/Family/Drama,2015,0,0
 234,Harry Potter and the Philosopher's Stone,0,Adventure/Fantasy,2001,0,0
 235,Back to the Future,0,Adventure/Comedy/Science Fiction,1985,0,0
-236,Howl's Moving Castle,0,Animation/Fantasy/Adventure,2004,0,0
-237,Avatar,0,Adventure/Science Fiction/Action,2009,0,0
-240,Black Panther,0,Adventure/Science Fiction/Action,2018,0,0
 242,WALL·E,0,Animation/Science Fiction/Family,2008,0,0
 244,Harry Potter and the Goblet of Fire,0,Adventure/Fantasy,2005,0,0
 246,Spider-Man,0,Action/Science Fiction,2002,0,0
 247,The Hunger Games: Catching Fire,0,Science Fiction/Adventure/Action,2013,0,0
 248,The Lord of the Rings: The Two Towers,0,Action/Fantasy/Adventure,2002,0,0
-249,Harry Potter and the Chamber of Secrets,0,Adventure/Fantasy,2002,0,0
 251,Iron Man,0,Adventure/Science Fiction/Action,2008,0,0
-252,The Incredibles,0,Animation/Family/Adventure/Action,2004,0,0
 253,"Monsters, Inc.",0,Comedy/Animation/Family/Fantasy,2001,0,0
 255,Spider-Man 2,0,Action/Science Fiction/Adventure,2004,0,0
-256,Princess Mononoke,0,Fantasy/Adventure/Animation,1997,0,0
-257,Harry Potter and the Deathly Hallows: Part 2,0,Fantasy/Adventure,2011,0,0
 258,The Nightmare Before Christmas,0,Family/Animation/Fantasy,1993,0,0
 260,Captain America: Civil War,0,Adventure/Action/Science Fiction,2016,0,0
-262,Shrek 2,0,Romance/Family/Comedy/Animation/Fantasy,2004,0,0
-264,Harry Potter and the Half-Blood Prince,0,Adventure/Fantasy,2009,0,0
 265,The Lion King,0,Animation/Drama/Family,1994,0,0
-267,The Hangover,0,Comedy,2009,0,0
 269,Trainspotting,0,Crime/Drama,1996,0,0
 270,"Crazy, Stupid, Love.",0,Comedy/Romance/Drama,2011,0,0
 271,Captain America: The First Avenger,0,Action/Adventure/Science Fiction,2011,0,0
 272,The Great Gatsby,0,Drama/Romance,2013,0,0
-273,Ferris Bueller's Day Off,0,Comedy,1986,0,0
 274,Frozen,0,Fantasy/Animation/Adventure/Family,2013,0,0
-275,Moana,0,Animation/Adventure/Family/Comedy,2016,0,0
-278,Love Actually,0,Romance/Drama/Comedy,2003,0,0
-280,American Beauty,0,Drama,1999,0,0
-282,Iron Man 2,0,Adventure/Science Fiction/Action,2010,0,0
 284,Iron Man 3,0,Action/Adventure/Science Fiction,2013,0,0
 285,Kung Fu Panda,0,Comedy/Family/Animation/Action,2008,0,0
-287,Kingsman: The Secret Service,0,Action/Comedy/Crime/Adventure,2014,0,0
 289,Pitch Perfect,0,Music/Comedy/Romance,2012,0,0
-290,Kiki's Delivery Service,0,Fantasy/Animation/Family,1989,0,0
 291,E.T. the Extra-Terrestrial,0,Adventure/Science Fiction/Family,1982,0,0
-292,Halloween,0,Thriller/Horror,1978,0,0
-293,Black Panther: Wakanda Forever,0,Science Fiction/Adventure/Action,2022,0,0
-294,Now You See Me,0,Thriller/Crime,2013,0,0
-295,The Lego Movie,0,Family/Fantasy/Comedy/Animation/Adventure,2014,0,0
-296,The Princess Diaries,0,Comedy/Romance/Family,2001,0,0
-297,The Parent Trap,0,Family/Romance/Comedy,1998,0,0
 299,Grease,0,Romance/Comedy,1978,0,0
 300,Top Gun,0,Action/Romance/Drama,1986,0,0
-308,The Princess and the Frog,0,Romance/Family/Animation/Fantasy,2009,0,0
 310,Snowpiercer,0,Drama/Action/Science Fiction,2013,0,0
 312,Groundhog Day,0,Comedy/Fantasy/Romance,1993,0,0
-313,Ice Age,0,Comedy/Adventure/Family/Animation,2002,0,0
 314,Life Is Beautiful,0,Comedy/Drama,1997,0,0
 315,The Hobbit: An Unexpected Journey,0,Fantasy/Action/Adventure,2012,0,0
 316,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",0,Fantasy/Family/Adventure,2005,0,0
@@ -301,218 +282,237 @@
 321,The Emperor's New Groove,0,Comedy/Adventure/Animation/Family/Fantasy,2000,0,0
 322,Jumanji: Welcome to the Jungle,0,Action/Comedy/Fantasy/Adventure,2017,0,0
 323,Night at the Museum,0,Fantasy/Family/Comedy,2006,0,0
-326,Hercules,0,Animation/Adventure/Romance/Comedy/Fantasy/Family,1997,0,0
 327,World War Z,0,Action/Science Fiction/Horror,2013,0,0
 330,X-Men: First Class,0,Science Fiction/Adventure/Action,2011,0,0
 331,Scooby-Doo,0,Comedy/Adventure/Mystery,2002,0,0
 333,Napoleon Dynamite,0,Comedy,2004,0,0
 335,Indiana Jones and the Temple of Doom,0,Adventure/Action,1984,0,0
-336,Kick-Ass,0,Crime/Action,2010,0,0
 338,Shrek the Third,0,Adventure/Comedy/Fantasy/Family/Animation,2007,0,0
 339,Moana 2,0,Comedy/Fantasy/Animation/Adventure/Family,2024,0,0
 340,High School Musical,0,Comedy/Family/TV Movie/Romance/Music,2006,0,0
-341,The Help,0,Drama,2011,0,0
 343,The Incredible Hulk,0,Science Fiction/Action/Adventure,2008,0,0
-347,Castle in the Sky,0,Fantasy/Adventure/Family/Action/Animation/Science Fiction,1986,0,0
 354,The Fifth Element,0,Adventure/Action/Science Fiction,1997,0,0
-355,Enchanted,0,Family/Fantasy/Comedy/Romance,2007,0,0
-356,The Prince of Egypt,0,Adventure/Family/Animation/Drama,1998,0,0
-357,The 40 Year Old Virgin,0,Romance/Comedy,2005,0,0
 358,"O Brother, Where Art Thou?",0,Comedy/Adventure/Crime,2000,0,0
 359,This Is the End,0,Comedy/Action,2013,0,0
-361,Over the Garden Wall,0,Animation/Mystery/Family/Comedy,2014,0,0
 364,Anchorman: The Legend of Ron Burgundy,0,Comedy,2004,0,0
-365,Swiss Army Man,0,Drama/Fantasy/Comedy/Adventure/Romance,2016,0,0
-367,Indiana Jones and the Kingdom of the Crystal Skull,0,Adventure/Action,2008,0,0
 368,Pitch Perfect 2,0,Comedy/Music,2015,0,0
 369,X-Men: The Last Stand,0,Science Fiction/Action/Adventure,2006,0,0
 370,TRON: Legacy,0,Adventure/Science Fiction/Action,2010,0,0
 371,Mrs. Doubtfire,0,Family/Comedy/Drama,1993,0,0
-375,Bruce Almighty,0,Comedy/Fantasy,2003,0,0
-377,Ice Age: The Meltdown,0,Adventure/Family/Comedy/Animation,2006,0,0
-378,Spring Breakers,0,Drama/Crime,2012,0,0
-379,Percy Jackson & the Olympians: The Lightning Thief,0,Adventure/Fantasy/Family,2010,0,0
-381,Chicken Little,0,Animation/Comedy/Family,2005,0,0
 383,Life of Brian,0,Comedy,1979,0,0
-384,The Karate Kid,0,Drama/Action/Family/Adventure,2010,0,0
 388,Over the Hedge,0,Animation/Family/Adventure/Comedy,2006,0,0
-389,Atlantis: The Lost Empire,0,Family/Science Fiction/Animation/Adventure,2001,0,0
 390,Hook,0,Comedy/Adventure/Fantasy/Family,1991,0,0
 392,West Side Story,0,Romance/Drama/Crime,1961,0,0
 393,Transformers: Revenge of the Fallen,0,Action/Adventure/Science Fiction,2009,0,0
 396,Flushed Away,0,Family/Adventure/Comedy/Animation,2006,0,0
-397,Forgetting Sarah Marshall,0,Drama/Comedy/Romance,2008,0,0
 399,To Kill a Mockingbird,0,Drama,1962,0,0
-401,Ella Enchanted,0,Comedy/Fantasy/Family,2004,0,0
 403,Holes,0,Drama/Comedy/Adventure/Family,2003,0,0
-404,Scooby-Doo 2: Monsters Unleashed,0,Mystery/Comedy/Adventure,2004,0,0
 406,Transformers: Dark of the Moon,0,Adventure/Action/Science Fiction,2011,0,0
-407,Neighbors,0,Comedy,2014,0,0
 408,Night at the Museum: Battle of the Smithsonian,0,Family/Adventure/Comedy/Fantasy/Action,2009,0,0
-409,Lemony Snicket's A Series of Unfortunate Events,0,Adventure/Family/Comedy,2004,0,0
-411,Star Trek,0,Action/Science Fiction/Adventure,2009,0,0
 412,The Half of It,0,Romance/Comedy/Drama,2020,0,0
-413,Remember the Titans,0,Drama,2000,0,0
-415,Bend It Like Beckham,0,Romance/Comedy/Drama,2002,0,0
-416,All About Eve,0,Drama,1950,0,0
 418,Hancock,0,Fantasy/Action,2008,0,0
-424,Pitch Perfect 3,0,Music/Comedy,2017,0,0
 425,Bill & Ted's Excellent Adventure,0,Science Fiction/Adventure/Comedy,1989,0,0
-426,Ghostbusters,0,Fantasy/Action/Comedy,2016,0,0
 427,Young Frankenstein,0,Comedy,1974,0,0
-428,John Tucker Must Die,0,Romance/Comedy,2006,0,0
 429,Spirit: Stallion of the Cimarron,0,Adventure/Animation/Western/Drama/Family,2002,0,0
 430,Spaceballs,0,Science Fiction/Comedy,1987,0,0
 433,Robin Hood: Men in Tights,0,Comedy,1993,0,0
 435,A Christmas Story,0,Family/Comedy,1983,0,0
-437,Star Trek Into Darkness,0,Science Fiction/Adventure/Action,2013,0,0
-438,No Strings Attached,0,Romance/Comedy,2011,0,0
 439,Dr. No,0,Action/Thriller/Adventure,1962,0,0
-440,Ghostbusters II,0,Comedy/Fantasy,1989,0,0
-441,Tron,0,Adventure/Action/Science Fiction,1982,0,0
 442,Ben-Hur,0,Drama/History/Adventure,1959,0,0
 443,Anchorman 2: The Legend Continues,0,Comedy,2013,0,0
 444,You Don't Mess with the Zohan,0,Action/Comedy,2008,0,0
-445,Nymphomaniac: Vol. II,0,Mystery/Drama,2013,0,0
-446,Babe,0,Drama/Family/Fantasy/Comedy,1995,0,0
-447,Galaxy Quest,0,Comedy/Science Fiction/Adventure,1999,0,0
-448,The Muppet Movie,0,Comedy/Family/Adventure,1979,0,0
 449,National Treasure: Book of Secrets,0,Action/Adventure/Mystery,2007,0,0
-450,Nanny McPhee,0,Family/Comedy/Fantasy,2005,0,0
-451,Winged Migration,0,Documentary,2001,0,0
-454,The Sword in the Stone,0,Family/Animation/Fantasy,1963,0,0
 455,How the Grinch Stole Christmas!,0,Comedy/Animation/Family,1966,0,0
-456,The Mummy,0,Action/Horror/Fantasy/Adventure/Thriller,2017,0,0
 458,Jumper,0,Science Fiction/Adventure/Action,2008,0,0
 459,The Wrong Trousers,0,Animation/Family/Comedy,1993,0,0
-461,A Close Shave,0,Animation/Family/Comedy,1995,0,0
 462,Across the Universe,0,Fantasy/Romance/Drama,2007,0,0
 464,Why Him?,0,Comedy,2016,0,0
 465,Moonage Daydream,0,Documentary/Music,2022,0,0
-466,Selma,0,History/Drama,2014,0,0
 467,"It's the Great Pumpkin, Charlie Brown",0,Comedy/Animation/TV Movie/Family,1966,0,0
 468,The Pacifier,0,Action/Family/Comedy,2005,0,0
 469,White Christmas,0,Comedy/Music/Romance,1954,0,0
-470,The Pink Panther,0,Crime/Adventure/Comedy/Mystery/Family,2006,0,0
 473,Santa Claus Is Comin' to Town,0,TV Movie/Family/Fantasy/Animation,1970,0,0
 477,Frosty Returns,0,Animation/Family/TV Movie,1992,0,0
-478,Miracle on 34th Street,0,Comedy/Drama/Family,1947,0,0
 479,The Many Adventures of Winnie the Pooh,0,Adventure/Animation/Family,1977,0,0
 480,The Santa Clause 3: The Escape Clause,0,Comedy/Family/Adventure,2006,0,0
 481,The Snowman,0,Family/Fantasy/Adventure/Animation,1982,0,0
-485,Batman: The Killing Joke,0,Drama/Crime/Animation,2016,0,0
 487,Deep Blue Sea,0,Action/Horror/Science Fiction,1999,0,0
 488,Time Bandits,0,Family/Science Fiction/Fantasy/Comedy/Adventure,1981,0,0
 489,Buffy the Vampire Slayer,0,Comedy/Horror/Action,1992,0,0
 490,The Sorcerer's Apprentice,0,Fantasy/Action/Adventure,2010,0,0
-491,Star Trek II: The Wrath of Khan,0,Action/Thriller/Science Fiction/Adventure,1982,0,0
-492,Star Trek: The Motion Picture,0,Mystery/Science Fiction/Adventure,1979,0,0
 494,Saved!,0,Comedy,2004,0,0
 497,Eragon,0,Family/Adventure/Fantasy/Action,2006,0,0
 498,The Ten Commandments,0,History/Drama,1956,0,0
 504,"history of the entire world, i guess",0,History/Documentary/Comedy/Music,2017,0,0
-505,The Pink Panther,0,Crime/Comedy,1963,0,0
-509,The Sheep Detectives,0,Mystery/Family/Comedy,2026,0,0
 511,Is God Is,0,Drama/Thriller,2026,0,0
-513,The Christophers,0,Crime/Comedy,2025,0,0
 515,The Outsiders,0,Drama/Crime,1983,0,0
 516,Babette's Feast,0,History/Comedy/Drama,1987,0,0
-80,Taylor Tomlinson: Look at You,-28,Comedy,2022,1,1
-472,The Santa Clause 2,-28,Fantasy/Comedy/Family,2002,1,1
+345,Transformers,0,Action/Science Fiction/Adventure,2007,1,1
+400,Peter Pan,0,Fantasy/Animation/Family/Adventure,1953,1,1
+97,Jenny Slate: Stage Fright,0,Comedy,2019,1,1
+259,Harry Potter and the Order of the Phoenix,0,Adventure/Fantasy,2007,1,1
+210,Tootsie,0,Comedy/Romance,1982,1,1
+108,Dumplin',0,Drama/Comedy,2018,1,1
+238,Guardians of the Galaxy,0,Adventure/Action/Science Fiction,2014,1,1
+80,Taylor Tomlinson: Look at You,-1,Comedy,2022,3,2
+136,Fast Times at Ridgemont High,-19,Drama/Romance/Comedy,1982,1,1
+423,The Big Sick,-20,Comedy/Romance/Drama,2017,2,2
+277,Ex Machina,-28,Science Fiction/Drama,2015,1,1
+119,Rent,-28,Drama/Romance,2005,1,1
+207,Amadeus,-34,Drama/History/Music,1984,1,1
+288,Thor,-42,Action/Adventure/Fantasy,2011,1,2
 309,Freaky Friday,-49,Comedy/Family/Fantasy,2003,1,1
+262,Shrek 2,-54,Romance/Family/Comedy/Animation/Fantasy,2004,0,1
+293,Black Panther: Wakanda Forever,-54,Science Fiction/Adventure/Action,2022,0,1
+445,Nymphomaniac: Vol. II,-54,Mystery/Drama,2013,0,1
+129,Independence Day,-54,Science Fiction/Adventure/Action,1996,0,1
+454,The Sword in the Stone,-54,Family/Animation/Fantasy,1963,1,2
+510,The Devil Wears Prada 2,-57,Comedy/Drama,2026,1,1
+397,Forgetting Sarah Marshall,-64,Drama/Comedy/Romance,2008,0,1
+460,A Grand Day Out,-67,Adventure/Animation/Comedy/Science Fiction/Family,1989,1,3
+1,Wicked,-71,Romance/Drama/Fantasy,2024,0,1
+341,The Help,-71,Drama,2011,0,1
+111,Mulan,-71,Family/Animation/Adventure,1998,0,1
+287,Kingsman: The Secret Service,-71,Action/Comedy/Crime/Adventure,2014,0,1
+378,Spring Breakers,-71,Drama/Crime,2012,0,1
+4,Inception,-71,Action/Adventure/Science Fiction,2010,0,1
+27,The Shape of Water,-71,Fantasy/Drama/Romance,2017,0,1
+308,The Princess and the Frog,-71,Romance/Family/Animation/Fantasy,2009,0,1
 15,Friendship,-71,Comedy/Drama,2024,0,1
 34,The Handmaid's Tale,-71,Drama/Science Fiction,1990,0,1
 102,Ek Ladki Ko Dekha Toh Aisa Laga,-71,Romance/Drama,2019,0,1
-120,Bridesmaids,-71,Comedy/Romance,2011,0,1
 206,Highlander,-71,Action/Adventure/Fantasy,1986,0,1
-208,The Terminator,-71,Action/Thriller/Science Fiction,1984,0,1
 261,The Dark Knight Rises,-71,Thriller/Crime/Drama/Action,2012,0,1
 281,Spider-Man 3,-71,Science Fiction/Action/Adventure,2007,0,1
 508,The Devil Wears Prada,-71,Comedy/Drama,2006,0,1
-25,Big Shark,-100,Comedy/Horror,2023,0,1
+199,Office Space,-79,Comedy,1999,0,1
+95,The Road to El Camino: Behind the Scenes of El Camino: A Breaking Bad Movie,-81,Documentary,2019,0,1
+183,Moonlight,-91,Drama,2016,0,1
+18,Jurassic Park III,-100,Science Fiction/Thriller/Adventure,2001,0,1
+43,Coco,-100,Adventure/Animation/Music/Family,2017,0,1
+50,Incredibles 2,-100,Family/Action/Animation/Adventure,2018,0,1
+61,The Mask,-100,Fantasy/Romance/Crime/Comedy,1994,0,1
+126,Through a Glass Darkly,-100,Drama,1961,0,1
+185,The Martian,-100,Drama/Science Fiction/Adventure,2015,0,1
+278,Love Actually,-100,Romance/Drama/Comedy,2003,0,1
+290,Kiki's Delivery Service,-100,Fantasy/Animation/Family,1989,0,1
+377,Ice Age: The Meltdown,-100,Adventure/Family/Comedy/Animation,2006,0,1
+407,Neighbors,-100,Comedy,2014,0,1
+424,Pitch Perfect 3,-100,Music/Comedy,2017,0,1
+485,Batman: The Killing Joke,-100,Drama/Crime/Animation,2016,0,1
+141,The Darjeeling Limited,-100,Comedy/Adventure/Drama,2007,1,2
+41,Arthur Christmas,-100,Animation/Drama/Family/Comedy,2011,0,1
+55,Frozen II,-100,Comedy/Animation/Adventure/Fantasy/Family,2019,0,1
+90,Sam Jay: 3 in the Morning,-100,Comedy,2020,0,1
+99,Seth Meyers: Lobby Baby,-100,Comedy,2019,0,1
+190,The Social Network,-100,Drama,2010,0,1
+257,Harry Potter and the Deathly Hallows: Part 2,-100,Fantasy/Adventure,2011,0,1
+336,Kick-Ass,-100,Crime/Action,2010,0,1
+379,Percy Jackson & the Olympians: The Lightning Thief,-100,Adventure/Fantasy/Family,2010,0,1
+416,All About Eve,-100,Drama,1950,0,1
+450,Nanny McPhee,-100,Family/Comedy/Fantasy,2005,0,1
+478,Miracle on 34th Street,-100,Comedy/Drama/Family,1947,0,1
+10,Barbie,-100,Comedy/Fantasy/Adventure,2023,0,1
+154,Into the Woods,-100,Comedy/Fantasy,2014,0,1
+165,Stargate: Continuum,-100,Science Fiction/Adventure/TV Movie/Action,2008,0,1
+222,"Good Luck, Have Fun, Don't Die",-100,Action/Science Fiction/Comedy,2025,0,1
+237,Avatar,-100,Adventure/Science Fiction/Action,2009,0,1
+264,Harry Potter and the Half-Blood Prince,-100,Adventure/Fantasy,2009,0,1
+280,American Beauty,-100,Drama,1999,0,1
+367,Indiana Jones and the Kingdom of the Crystal Skull,-100,Adventure/Action,2008,0,1
+437,Star Trek Into Darkness,-100,Science Fiction/Adventure/Action,2013,0,1
 31,Guardians of the Galaxy Vol. 2,-100,Action/Science Fiction/Adventure,2017,0,1
-51,Disobedience,-100,Drama/Romance,2017,0,1
 59,Joseph and the Amazing Technicolor Dreamcoat,-100,Family,1999,0,1
 70,Hot Frosty,-100,Romance/Comedy,2024,0,1
-77,Bo Burnham: Inside,-100,Comedy,2021,0,1
-93,Sitara: Let Girls Dream,-100,Drama/Animation,2019,0,1
-127,Cries and Whispers,-100,Drama,1972,0,1
 139,Moonrise Kingdom,-100,Romance/Drama/Comedy,2012,0,1
 143,The Life Aquatic with Steve Zissou,-100,Comedy/Adventure/Drama,2004,0,1
 153,Public Enemies,-100,History/Crime/Drama,2009,0,1
-162,The Day the Earth Stood Still,-100,Science Fiction/Thriller/Drama,1951,0,1
 177,Elf,-100,Fantasy/Family/Comedy,2003,0,1
 204,The Bucket List,-100,Drama/Comedy,2007,0,1
-212,Cruel Intentions,-100,Romance/Drama,1999,0,1
 216,People We Meet on Vacation,-100,Comedy/Romance,2026,0,1
 228,Avengers: Infinity War,-100,Action/Science Fiction/Adventure,2018,0,1
 230,The Hunger Games,-100,Action/Science Fiction/Thriller/Adventure,2012,0,1
 239,Up,-100,Adventure/Family/Animation/Comedy,2009,0,1
 243,The Avengers,-100,Science Fiction/Adventure/Action,2012,0,1
 254,Finding Nemo,-100,Adventure/Family/Animation,2003,0,1
-259,Harry Potter and the Order of the Phoenix,-100,Adventure/Fantasy,2007,0,1
 268,Avengers: Age of Ultron,-100,Science Fiction/Action/Adventure,2015,0,1
-302,Thor: The Dark World,-100,Action/Adventure/Fantasy,2013,0,1
-304,Zombieland,-100,Comedy/Horror,2009,0,1
-324,Finding Dory,-100,Adventure/Animation/Family,2016,0,1
-334,The Hobbit: The Desolation of Smaug,-100,Action/Fantasy/Adventure,2013,0,1
-345,Transformers,-100,Action/Science Fiction/Adventure,2007,0,1
 351,Bee Movie,-100,Comedy/Family/Animation/Adventure,2007,0,1
 362,Friends with Benefits,-100,Comedy/Romance,2011,0,1
-363,Snow White and the Seven Dwarfs,-100,Family/Fantasy/Animation,1937,0,1
 366,X-Men Origins: Wolverine,-100,Science Fiction/Adventure/Action,2009,0,1
-382,The Hangover Part III,-100,Comedy,2013,0,1
-398,Pineapple Express,-100,Crime/Action/Comedy,2008,0,1
-400,Peter Pan,-100,Fantasy/Animation/Family/Adventure,1953,0,1
 420,Nymphomaniac: Vol. I,-100,Drama,2013,0,1
 432,Blazing Saddles,-100,Western/Comedy,1974,0,1
-452,March of the Penguins,-100,Family/Documentary,2005,0,1
-460,A Grand Day Out,-100,Adventure/Animation/Comedy/Science Fiction/Family,1989,0,1
 475,Frosty the Snowman,-100,TV Movie/Family/Animation,1969,0,1
-476,The Little Drummer Boy,-100,TV Movie/Animation/Family/Drama,1968,0,1
-496,Vampires Suck,-100,Fantasy/Comedy,2010,0,1
-499,Jimmy Neutron: Boy Genius,-100,Animation/Comedy/Adventure/Science Fiction/Family,2001,0,1
 501,Troll Hunter,-100,Fantasy/Horror,2010,0,1
 502,Beethoven,-100,Comedy/Family,1992,0,1
-503,Super Troopers,-100,Comedy/Crime/Mystery,2001,0,1
 164,Stargate: The Ark of Truth,-100,Science Fiction/Adventure/TV Movie/Action,2008,0,1
-9,Pulp Fiction,-100,Comedy/Thriller/Crime,1994,0,1
 13,Zootopia,-100,Animation/Family/Comedy/Adventure,2016,0,1
 37,The Lord of the Rings: The Fellowship of the Ring,-100,Adventure/Action/Fantasy,2001,0,1
 46,Thor: Ragnarok,-100,Comedy/Adventure/Science Fiction/Action,2017,0,1
 92,Deon Cole: Cole Hearted,-100,Comedy,2019,0,1
-94,The Lonely Island Presents: The Unauthorized Bash Brothers Experience,-100,Comedy/Music,2019,0,1
-97,Jenny Slate: Stage Fright,-100,Comedy,2019,0,1
-108,Dumplin',-100,Drama/Comedy,2018,0,1
-133,Knocked Up,-100,Drama/Romance/Comedy,2007,0,1
 145,Jurassic World,-100,Adventure/Thriller/Science Fiction,2015,0,1
 197,X-Men,-100,Science Fiction/Action/Adventure,2000,0,1
-210,Tootsie,-100,Comedy/Romance,1982,0,1
-238,Guardians of the Galaxy,-100,Adventure/Action/Science Fiction,2014,0,1
 301,Brave,-100,Animation/Family/Fantasy/Adventure,2012,0,1
 306,Back to the Future Part II,-100,Science Fiction/Comedy/Adventure,1989,0,1
-342,Back to the Future Part III,-100,Comedy/Adventure/Science Fiction/Western,1990,0,1
 353,The Hangover Part II,-100,Comedy,2011,0,1
-374,Troy,-100,Action/History/War,2004,0,1
 386,Space Jam,-100,Family/Fantasy/Comedy/Animation/Science Fiction,1996,0,1
 405,Wedding Crashers,-100,Comedy/Romance,2005,0,1
-482,Rudolph's Shiny New Year,-100,Comedy/Fantasy/Animation/Family/TV Movie,1976,0,1
 483,Rudolph and Frosty's Christmas in July,-100,Family/Fantasy/Animation/TV Movie,1979,0,1
 495,Piper,-100,Animation/Family,2016,0,1
 512,Wicked: For Good,-100,Adventure/Fantasy/Romance,2025,0,1
+428,John Tucker Must Die,-105,Romance/Comedy,2006,0,1
+221,Stand by Me,-108,Adventure/Drama,1986,0,1
+505,The Pink Panther,-112,Crime/Comedy,1963,0,2
+434,A Charlie Brown Christmas,-119,Family/Comedy/TV Movie/Animation,1965,1,2
+249,Harry Potter and the Chamber of Secrets,-128,Adventure/Fantasy,2002,0,1
+294,Now You See Me,-128,Thriller/Crime,2013,0,1
+451,Winged Migration,-128,Documentary,2001,0,1
 325,Ted,-128,Comedy/Fantasy,2012,0,1
-394,Ice Age: Dawn of the Dinosaurs,-128,Comedy/Adventure/Animation/Family,2009,0,1
+384,The Karate Kid,-130,Drama/Action/Family/Adventure,2010,0,1
+127,Cries and Whispers,-130,Drama,1972,0,2
+101,Aziz Ansari: Right Now,-131,Comedy/TV Movie/Documentary,2019,0,2
+51,Disobedience,-148,Drama/Romance,2017,0,2
+452,March of the Penguins,-148,Family/Documentary,2005,0,2
+195,Vanilla Sky,-148,Romance/Science Fiction/Mystery,2001,1,2
+275,Moana,-148,Animation/Adventure/Family/Comedy,2016,0,2
 74,Blockers,-148,Comedy,2018,0,2
-500,Chitty Chitty Bang Bang,-148,Comedy/Family/Adventure/Fantasy,1968,0,2
+491,Star Trek II: The Wrath of Khan,-150,Action/Thriller/Science Fiction/Adventure,1982,0,2
+219,Spider-Man: Homecoming,-150,Action/Adventure/Science Fiction,2017,0,2
 148,Dark Shadows,-150,Comedy/Fantasy,2012,0,2
-42,Paradox,-171,Music/Fantasy,2018,0,2
+32,Wonder Woman,-157,Action/Fantasy/Adventure,2017,0,1
+357,The 40 Year Old Virgin,-166,Romance/Comedy,2005,1,3
+304,Zombieland,-171,Comedy/Horror,2009,0,2
+398,Pineapple Express,-171,Crime/Action/Comedy,2008,0,2
+133,Knocked Up,-171,Drama/Romance/Comedy,2007,0,2
+93,Sitara: Let Girls Dream,-171,Drama/Animation,2019,0,2
+382,The Hangover Part III,-171,Comedy,2013,0,2
+496,Vampires Suck,-171,Fantasy/Comedy,2010,0,2
+342,Back to the Future Part III,-171,Comedy/Adventure/Science Fiction/Western,1990,0,2
+409,Lemony Snicket's A Series of Unfortunate Events,-171,Adventure/Family/Comedy,2004,0,2
+212,Cruel Intentions,-171,Romance/Drama,1999,0,2
+476,The Little Drummer Boy,-171,TV Movie/Animation/Family/Drama,1968,0,2
 88,Mike Birbiglia: What I Should Have Said Was Nothing,-171,Comedy,2008,0,2
-344,The Hobbit: The Battle of the Five Armies,-171,Fantasy/Action/Adventure,2014,0,2
 422,Lincoln,-171,History/Drama,2012,0,2
 453,About a Boy,-171,Drama/Romance/Comedy,2002,0,2
 506,Curse of the Pink Panther,-171,Crime/Comedy/Mystery,1983,0,2
 140,The Royal Tenenbaums,-171,Drama/Comedy,2001,0,2
-279,Birdman or (The Unexpected Virtue of Ignorance),-171,Drama/Comedy,2014,0,2
-288,Thor,-171,Action/Adventure/Fantasy,2011,0,2
 360,Alice in Wonderland,-171,Fantasy/Animation/Family/Adventure,1951,0,2
+162,The Day the Earth Stood Still,-179,Science Fiction/Thriller/Drama,1951,0,2
+503,Super Troopers,-191,Comedy/Crime/Mystery,2001,0,2
+394,Ice Age: Dawn of the Dinosaurs,-192,Comedy/Adventure/Animation/Family,2009,0,2
 23,Materialists,-192,Romance/Drama,2025,0,2
+440,Ghostbusters II,-193,Comedy/Fantasy,1989,0,2
+492,Star Trek: The Motion Picture,-199,Mystery/Science Fiction/Adventure,1979,0,2
+52,Mary Queen of Scots,-200,Drama/History,2018,0,2
+499,Jimmy Neutron: Boy Genius,-200,Animation/Comedy/Adventure/Science Fiction/Family,2001,0,2
+77,Bo Burnham: Inside,-200,Comedy,2021,0,2
+363,Snow White and the Seven Dwarfs,-200,Family/Fantasy/Animation,1937,0,2
+482,Rudolph's Shiny New Year,-200,Comedy/Fantasy/Animation/Family/TV Movie,1976,0,2
+500,Chitty Chitty Bang Bang,-207,Comedy/Family/Adventure/Fantasy,1968,0,3
+374,Troy,-208,Action/History/War,2004,0,2
+302,Thor: The Dark World,-221,Action/Adventure/Fantasy,2013,0,3
+344,The Hobbit: The Battle of the Five Armies,-225,Fantasy/Action/Adventure,2014,0,3
+279,Birdman or (The Unexpected Virtue of Ignorance),-225,Drama/Comedy,2014,0,3
+25,Big Shark,-244,Comedy/Horror,2023,0,3
+334,The Hobbit: The Desolation of Smaug,-248,Action/Fantasy/Adventure,2013,0,3
+42,Paradox,-250,Music/Fantasy,2018,0,3
+313,Ice Age,-264,Comedy/Adventure/Family/Animation,2002,0,3
