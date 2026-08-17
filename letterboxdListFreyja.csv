@@ -42,6 +42,7 @@
 283,Star Wars: The Last Jedi,171,Adventure/Action/Science Fiction,2017,2,0,https://boxd.it/5xme
 365,Swiss Army Man,171,Drama/Fantasy/Comedy/Adventure/Romance,2016,2,0,https://boxd.it/bDG2
 395,The Birdcage,171,Comedy/Romance,1996,2,0,https://boxd.it/1UTi
+419,The Santa Clause,159,Family/Comedy/Fantasy/Drama,1994,4,1,https://boxd.it/1TWK
 331,Scooby-Doo,154,Comedy/Adventure/Mystery,2002,1,0,https://boxd.it/1YaQ
 159,Willy Wonka & the Chocolate Factory,150,Comedy/Family/Fantasy,1971,2,0,https://boxd.it/2aLu
 67,Miss Congeniality,148,Crime/Comedy/Action,2000,2,0,https://boxd.it/28GM
@@ -67,6 +68,7 @@
 189,Scott Pilgrim vs. the World,119,Romance/Action/Comedy,2010,2,1,https://boxd.it/1Aq6
 149,Pee-wee's Big Adventure,117,Adventure/Family/Comedy,1985,3,1,https://boxd.it/22Lw
 427,Young Frankenstein,105,Comedy,1974,1,0,https://boxd.it/25To
+273,Ferris Bueller's Day Off,104,Comedy,1986,2,0,https://boxd.it/1YPY
 436,The Last Temptation of Christ,102,Drama,1988,3,1,https://boxd.it/1ULe
 85,Bo Burnham: Make Happy,100,Comedy/Music,2016,1,0,https://boxd.it/e436
 109,Trevor Noah: Son of Patricia,100,Comedy/TV Movie,2018,1,0,https://boxd.it/kqWY
@@ -131,9 +133,9 @@
 438,No Strings Attached,100,Romance/Comedy,2011,1,0,https://boxd.it/YUs
 200,Men in Black,100,Science Fiction/Comedy/Action/Adventure,1997,1,0,https://boxd.it/2a0I
 211,Close Encounters of the Third Kind,100,Science Fiction/Drama,1977,1,0,https://boxd.it/29u8
+3,Home Alone,100,Family/Comedy,1990,1,0,https://boxd.it/29Fg
 36,Tangled,91,Family/Adventure/Animation,2010,1,0,https://boxd.it/15gO
 53,Ant-Man and the Wasp,85,Adventure/Action/Science Fiction,2018,2,1,https://boxd.it/cqUW
-419,The Santa Clause,83,Family/Comedy/Fantasy/Drama,1994,3,1,https://boxd.it/1TWK
 296,The Princess Diaries,79,Comedy/Romance/Family,2001,1,0,https://boxd.it/1XCO
 260,Captain America: Civil War,77,Adventure/Action/Science Fiction,2016,1,0,https://boxd.it/89Ja
 5,The Dark Knight,71,Thriller/Action/Crime,2008,1,0,https://boxd.it/2b0k
@@ -160,9 +162,8 @@
 346,Kingsman: The Golden Circle,57,Crime/Action/Adventure/Comedy,2017,2,1,https://boxd.it/buJm
 423,The Big Sick,57,Comedy/Romance/Drama,2017,3,2,https://boxd.it/eHvy
 326,Hercules,54,Animation/Adventure/Romance/Comedy/Fantasy/Family,1997,1,0,https://boxd.it/1SDW
-273,Ferris Bueller's Day Off,54,Comedy,1986,1,0,https://boxd.it/1YPY
+462,Across the Universe,54,Fantasy/Romance/Drama,2007,1,0,https://boxd.it/23X4
 29,The Girl with the Dragon Tattoo,49,Thriller/Drama/Mystery/Crime,2009,1,0,https://boxd.it/1Mb8
-381,Chicken Little,48,Animation/Comedy/Family,2005,1,0,https://boxd.it/1Xnu
 343,The Incredible Hulk,46,Science Fiction/Action/Adventure,2008,1,0,https://boxd.it/28dU
 181,Thelma,40,Adventure/Comedy/Action,2024,3,2,https://boxd.it/DOou
 129,Independence Day,32,Science Fiction/Adventure/Action,1996,1,1,https://boxd.it/2a1w
@@ -178,12 +179,12 @@
 375,Bruce Almighty,20,Comedy/Fantasy,2003,1,1,https://boxd.it/2aCC
 208,The Terminator,20,Action/Thriller/Science Fiction,1984,1,1,https://boxd.it/2aQY
 103,John Mulaney: The Comeback Kid,16,Documentary/TV Movie/Comedy,2015,1,1,https://boxd.it/cK4w
+414,Tusk,14,Horror/Comedy,2014,2,2,https://boxd.it/7eoa
 155,The Imaginarium of Doctor Parnassus,10,Fantasy/Adventure/Mystery,2009,1,1,https://boxd.it/20DA
 325,Ted,7,Comedy/Fantasy,2012,1,1,https://boxd.it/2pgc
 47,The Favourite,0,Drama/Comedy/History,2018,1,1,https://boxd.it/d2hI
 30,Star Wars: The Force Awakens,0,Action/Adventure/Science Fiction,2015,1,1,https://boxd.it/4vru
 151,Pirates of the Caribbean: Dead Man's Chest,0,Action/Adventure/Fantasy,2006,1,1,https://boxd.it/2bfk
-3,Home Alone,0,Family/Comedy,1990,0,0,https://boxd.it/29Fg
 6,Spider-Man: Into the Spider-Verse,0,Adventure/Animation/Action/Science Fiction,2018,0,0,https://boxd.it/azpY
 7,Get Out,0,Horror/Mystery/Thriller,2017,0,0,https://boxd.it/eOCm
 11,The Blues Brothers,0,Music/Comedy/Crime,1980,0,0,https://boxd.it/2adi
@@ -266,7 +267,6 @@
 299,Grease,0,Romance/Comedy,1978,0,0,https://boxd.it/29YW
 300,Top Gun,0,Action/Romance/Drama,1986,0,0,https://boxd.it/29JC
 310,Snowpiercer,0,Drama/Action/Science Fiction,2013,0,0,https://boxd.it/3Icg
-314,Life Is Beautiful,0,Comedy/Drama,1997,0,0,https://boxd.it/29Wm
 315,The Hobbit: An Unexpected Journey,0,Fantasy/Action/Adventure,2012,0,0,https://boxd.it/GZk
 318,Boyhood,0,Drama,2014,0,0,https://boxd.it/3178
 320,Zoolander,0,Comedy,2001,0,0,https://boxd.it/1YMA
@@ -295,7 +295,6 @@
 399,To Kill a Mockingbird,0,Drama,1962,0,0,https://boxd.it/2a2E
 403,Holes,0,Drama/Comedy/Adventure/Family,2003,0,0,https://boxd.it/20mE
 406,Transformers: Dark of the Moon,0,Adventure/Action/Science Fiction,2011,0,0,https://boxd.it/16aC
-408,Night at the Museum: Battle of the Smithsonian,0,Family/Adventure/Comedy/Fantasy/Action,2009,0,0,https://boxd.it/1H7U
 412,The Half of It,0,Romance/Comedy/Drama,2020,0,0,https://boxd.it/m0T4
 418,Hancock,0,Fantasy/Action,2008,0,0,https://boxd.it/1Zv6
 425,Bill & Ted's Excellent Adventure,0,Science Fiction/Adventure/Comedy,1989,0,0,https://boxd.it/28oI
@@ -311,7 +310,6 @@
 455,How the Grinch Stole Christmas!,0,Comedy/Animation/Family,1966,0,0,https://boxd.it/1Qj6
 458,Jumper,0,Science Fiction/Adventure/Action,2008,0,0,https://boxd.it/20ss
 459,The Wrong Trousers,0,Animation/Family/Comedy,1993,0,0,https://boxd.it/2ack
-462,Across the Universe,0,Fantasy/Romance/Drama,2007,0,0,https://boxd.it/23X4
 464,Why Him?,0,Comedy,2016,0,0,https://boxd.it/c3Wq
 465,Moonage Daydream,0,Documentary/Music,2022,0,0,https://boxd.it/A8Co
 468,The Pacifier,0,Action/Family/Comedy,2005,0,0,https://boxd.it/1Xhm
@@ -382,11 +380,14 @@
 261,The Dark Knight Rises,-71,Thriller/Crime/Drama/Action,2012,0,1,https://boxd.it/H3m
 281,Spider-Man 3,-71,Science Fiction/Action/Adventure,2007,0,1,https://boxd.it/2a7Y
 508,The Devil Wears Prada,-71,Comedy/Drama,2006,0,1,https://boxd.it/2awE
+314,Life Is Beautiful,-76,Comedy/Drama,1997,0,1,https://boxd.it/29Wm
 312,Groundhog Day,-77,Comedy/Fantasy/Romance,1993,0,1,https://boxd.it/2b3e
 199,Office Space,-79,Comedy,1999,0,1,https://boxd.it/28Em
 332,Into the Wild,-85,Drama/Adventure,2007,1,2,https://boxd.it/22m2
 183,Moonlight,-91,Drama,2016,0,1,https://boxd.it/d6bE
 60,"I Love You, Man",-92,Comedy/Romance,2009,0,1,https://boxd.it/1JZu
+381,Chicken Little,-100,Animation/Comedy/Family,2005,1,1,https://boxd.it/1Xnu
+408,Night at the Museum: Battle of the Smithsonian,-100,Family/Adventure/Comedy/Fantasy/Action,2009,0,1,https://boxd.it/1H7U
 285,Kung Fu Panda,-100,Comedy/Family/Animation/Action,2008,0,1,https://boxd.it/1Yws
 479,The Many Adventures of Winnie the Pooh,-100,Adventure/Animation/Family,1977,0,1,https://boxd.it/7l0Y
 18,Jurassic Park III,-100,Science Fiction/Thriller/Adventure,2001,0,1,https://boxd.it/2azI
@@ -458,9 +459,7 @@
 451,Winged Migration,-128,Documentary,2001,0,1,https://boxd.it/1TFu
 384,The Karate Kid,-130,Drama/Action/Family/Adventure,2010,0,1,https://boxd.it/15HA
 101,Aziz Ansari: Right Now,-131,Comedy/TV Movie/Documentary,2019,0,2,https://boxd.it/mHgu
-414,Tusk,-134,Horror/Comedy,2014,1,2,https://boxd.it/7eoa
 278,Love Actually,-134,Romance/Drama/Comedy,2003,0,2,https://boxd.it/2aeU
-259,Harry Potter and the Order of the Phoenix,-135,Adventure/Fantasy,2007,1,2,https://boxd.it/29Qe
 407,Neighbors,-138,Comedy,2014,0,2,https://boxd.it/5Txe
 362,Friends with Benefits,-148,Comedy/Romance,2011,0,2,https://boxd.it/DoK
 145,Jurassic World,-148,Adventure/Thriller/Science Fiction,2015,0,2,https://boxd.it/4n0g
@@ -482,7 +481,6 @@
 93,Sitara: Let Girls Dream,-171,Drama/Animation,2019,0,2,https://boxd.it/ocom
 382,The Hangover Part III,-171,Comedy,2013,0,2,https://boxd.it/3GNY
 496,Vampires Suck,-171,Fantasy/Comedy,2010,0,2,https://boxd.it/125y
-342,Back to the Future Part III,-171,Comedy/Adventure/Science Fiction/Western,1990,0,2,https://boxd.it/2aTS
 409,Lemony Snicket's A Series of Unfortunate Events,-171,Adventure/Family/Comedy,2004,0,2,https://boxd.it/1T7s
 212,Cruel Intentions,-171,Romance/Drama,1999,0,2,https://boxd.it/29Be
 476,The Little Drummer Boy,-171,TV Movie/Animation/Family/Drama,1968,0,2,https://boxd.it/1Gds
@@ -495,6 +493,7 @@
 92,Deon Cole: Cole Hearted,-172,Comedy,2019,0,2,https://boxd.it/nF7C
 141,The Darjeeling Limited,-177,Comedy/Adventure/Drama,2007,1,3,https://boxd.it/24as
 162,The Day the Earth Stood Still,-179,Science Fiction/Thriller/Drama,1951,0,2,https://boxd.it/29w4
+259,Harry Potter and the Order of the Phoenix,-185,Adventure/Fantasy,2007,1,3,https://boxd.it/29Qe
 165,Stargate: Continuum,-186,Science Fiction/Adventure/TV Movie/Action,2008,0,2,https://boxd.it/1R4w
 394,Ice Age: Dawn of the Dinosaurs,-192,Comedy/Adventure/Animation/Family,2009,0,2,https://boxd.it/20iC
 23,Materialists,-192,Romance/Drama,2025,0,2,https://boxd.it/GZlW
@@ -507,6 +506,7 @@
 500,Chitty Chitty Bang Bang,-207,Comedy/Family/Adventure/Fantasy,1968,0,3,https://boxd.it/1Tbu
 222,"Good Luck, Have Fun, Don't Die",-208,Action/Science Fiction/Comedy,2025,0,2,https://boxd.it/Glua
 302,Thor: The Dark World,-221,Action/Adventure/Fantasy,2013,0,3,https://boxd.it/2DqA
+342,Back to the Future Part III,-225,Comedy/Adventure/Science Fiction/Western,1990,0,3,https://boxd.it/2aTS
 344,The Hobbit: The Battle of the Five Armies,-225,Fantasy/Action/Adventure,2014,0,3,https://boxd.it/43aU
 25,Big Shark,-244,Comedy/Horror,2023,0,3,https://boxd.it/llbK
 363,Snow White and the Seven Dwarfs,-245,Family/Fantasy/Animation,1937,0,3,https://boxd.it/2arO
