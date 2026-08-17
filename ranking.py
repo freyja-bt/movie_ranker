@@ -242,4 +242,4 @@ with open(filename, "w") as file:
     ranklist = sorted(ranklist, key=lambda x: x["elo"],reverse=True)
     file.write(",".join(headers) + "\n")
     for item in ranklist:
-        file.write(",".join(map(str, [item[header] for header in headers])) + "\n")
+        file.write(",".join(map(str, [item[header] for header in headers])))
