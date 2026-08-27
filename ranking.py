@@ -195,18 +195,30 @@ while True:
     decision = input("Would you like to quit(0), enter a new item(1), do a random match(2), see the rankings(3), \ndo a ranked match(4), get partial rankings(5), plot elo(6), search(7), or choose a match(8): ")
     if decision == "1":
         newItem(ranklist, headers)
-    elif decision == "2": 
+    elif decision == "2":
         n = input("How many random matches do you want to do: ")
-        try:
-            n = int(n)
-        except ValueError:
-            n = input("Enter a number this time: ") 
+        while True:
+            try:
+                val = int(n)
+            except ValueError:
+                n = input("Enter a number this time: ")
+                continue
+            else:
+                break
         for _ in range(int(n)):
             randomMatch(ranklist)
     elif decision == "3":
         printRankings(ranklist)
     elif decision == "4":
         n = input("How many ranked matches do you want to do: ")
+        while True:
+            try:
+                val = int(n)
+            except ValueError:
+                n = input("Enter a number this time: ")
+                continue
+            else:
+                break
         for _ in range(int(n)):
             rankedMatch(ranklist)
     elif decision == "5":
