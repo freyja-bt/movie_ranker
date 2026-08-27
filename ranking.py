@@ -79,6 +79,8 @@ def match(a, b):
     print(a["title"], "--", a["year"], "(1)")
     print(b["title"], "--", b["year"], "(2)")
     result = input("Enter (1) or (2): ")
+    while result not in ["1", "2"]:
+        result = input("Enter (1) or (2): ")
     if result == "1":
         matches = getAdjustments(b["elo"], a["elo"])
         b["elo"] = matches[0]
