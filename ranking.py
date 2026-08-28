@@ -79,6 +79,8 @@ def match(a, b):
     print(a["title"], "--", a["year"], "(1)")
     print(b["title"], "--", b["year"], "(2)")
     result = input("Enter (1) or (2): ")
+    while result not in ["1", "2"]:
+        result = input("Enter (1) or (2): ")
     if result == "1":
         matches = getAdjustments(b["elo"], a["elo"])
         b["elo"] = matches[0]
@@ -169,7 +171,7 @@ def get_from_title(items, title):
 
 ranklist = []
 if len(sys.argv) < 2:
-    raise Exception("Filename of ranking file must be provided as command line argument")
+    raise Exception("Filename of ranking file must be provided as command line argument")  # noqa: TRY002
 
 filename = sys.argv[1]
 with open(filename, "r") as file:
@@ -193,14 +195,30 @@ while True:
     decision = input("Would you like to quit(0), enter a new item(1), do a random match(2), see the rankings(3), \ndo a ranked match(4), get partial rankings(5), plot elo(6), search(7), or choose a match(8): ")
     if decision == "1":
         newItem(ranklist, headers)
-    elif decision == "2": 
+    elif decision == "2":
         n = input("How many random matches do you want to do: ")
+        while True:
+            try:
+                val = int(n)
+            except ValueError:
+                n = input("Enter a number this time: ")
+                continue
+            else:
+                break
         for _ in range(int(n)):
             randomMatch(ranklist)
     elif decision == "3":
         printRankings(ranklist)
     elif decision == "4":
         n = input("How many ranked matches do you want to do: ")
+        while True:
+            try:
+                val = int(n)
+            except ValueError:
+                n = input("Enter a number this time: ")
+                continue
+            else:
+                break
         for _ in range(int(n)):
             rankedMatch(ranklist)
     elif decision == "5":
@@ -242,4 +260,4 @@ with open(filename, "w") as file:
     ranklist = sorted(ranklist, key=lambda x: x["elo"],reverse=True)
     file.write(",".join(headers) + "\n")
     for item in ranklist:
-        file.write(",".join(map(str, [item[header] for header in headers])) + "\n")
+        file.write(",".join(map(str, [item[header] for header in headers])))
